@@ -1,0 +1,25 @@
+{
+  "name": "create-react-component",
+  "version": "0.0.1",
+  "description": "A CLI module to wizard web React components",
+  "main": "bin/wizard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-react-component": "bin/wizard.js"
+  },
+  "keywords": [
+    "cli",
+    "react",
+    "web",
+    "wizard",
+    "create-react"
+  ],
+  "author": "IsTheJack",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^2.0.0",
+    "minimist": "^1.2.0"
+  }
+}
