@@ -16,6 +16,10 @@
     "wizard",
     "create-react"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsTheJack/create-react-component.git"
+  },
   "author": "IsTheJack",
   "license": "MIT",
   "dependencies": {
